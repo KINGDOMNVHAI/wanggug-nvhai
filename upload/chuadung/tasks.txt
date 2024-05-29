@@ -1,0 +1,329 @@
+FE
+1) Tạo channel trong Admin
+- CRUD data channels trong MySQL
+
+2) Auth
+- Đăng nhập bằng Google
+
+4) Tạo channel
+- Dùng GET để lấy id. Đường dẫn: channel?id=idChannel
+- Nếu không tìm thấy channel -> 404
+- Tên kênh, ID, link mxh
+- avatar, banner
+- thông tin ở phần giới thiệu
+- video
+- bài viết community
+
+5) SEO
+- Xem các video làm SEO trên NextJS
+
+6) Tạo trang xem video
+- Mang giao diện từ trang Angular qua NextJS
+
+BE
+Spring Boot
+Phát triển source Spring Boot 3.1 With JWT
+https://www.youtube.com/playlist?list=PLgYFT7gUQL8HCIyTncupOEl8c6cgXAO4j
+
+Docker
+Cài đặt MySQL
+
+
+
+Android
+- Lấy data từ API
+
+Phụ: Tạo chức năng QR Generate.
+- Muốn share link video, bấm nút "Tạo QR Code" "Generate QR Code" để trả về mã QR.
+
+Giao diện admin
+NextJS 13 App with Firebase & Tailwind CSS
+https://www.youtube.com/watch?v=uikATllLdRc
+
+
+====================================================
+
+====================================================
+
+Kawaii Code
++ 1 video Kawaii Code (Java loop ngược, nhận API không thay đổi code -> dùng map)
++ kafka (viết bài)
+
+- Kế hoạch phục hồi KINGDOM NVHAI (nửa cuối năm 2024)
++ Luyện Design Pixel Game
++ Sau đó làm lại video hướng dẫn Premiere Pro, Photoshop, HTML, Pixel Game.
++ Chuẩn bị giáo án HTML trước khi làm video, template mẫu
++ DAL Ars Install Tohka Route Full
++ DAL Drama CD Rinne
++ DAL Drama CD Rio
+Đến ngày sinh nhật 1/7, bắt đầu đăng series Premiere Pro + Photoshop. 2 tuần 1 video thay phiên nhau.
+
+Video HTML, CSS
+Tạo Form, input, checkbox, radio, validation
+https://www.youtube.com/watch?v=QsZ3dXAO5HA
+https://www.youtube.com/watch?v=GfRtkB0zDe4
+So sánh CSS Grid vs flexbox
+https://www.youtube.com/watch?v=j5thxVZVCao
+
+Xem trang web này rồi làm video đáp ứng yêu cầu của web.
+Ví dụ: thẻ dl, ol...
+getbootstrap.com/docs/5.1/examples/blog
+
+===========================
+Lương tháng 5 21tr6
+Q: đi du lịch trước, trả sau. Ít nhất tháng này trả 500
+Mỗi tháng trả thẻ HDSAISON 3tr tiền iPhone
+
+1/6: HDSAISON 1tr
+8/6: HDBank 1tr6, trả mẹ 1tr, rút HDBank 2tr trả VPBank
+chừa lại 200 đi đường (bỏ vào Túi Thần Tài)
+
+===========================
+
+Lương tháng 6 (thêm tiền sinh nhật 300 -> 150 cho MA, 150 trả Momo)
+MA: 3tr
+Mẹ: 1tr5
+Q: 1tr + số lẻ
+SC + VPBank = 12tr1
+Momo: 1tr + tiền còn lại của anh An
+
+Còn lại: 4tr
+HDBank: ít nhất 1tr6
+VPBank: 2tr
+Mang tiền từ thẻ khác trả dần cho HDSAISON, mỗi thẻ 500.
+
+
+
+Tổng kết:
+Mcredit tháng 10 trả xong. 1tr6 x 6 = 9tr6
+Iphone tháng 8 trả xong 2tr2 x 9 = 20tr
+Xong khoản nào, dùng tiền khoản đó trả vào HDSAISON. Rồi đến HDBank
+
+Nếu có tiền tháng 13:
+Mẹ 1/4
+Q 1/4
+Nợ 1/4
+MA 1/4
+=================
+
+Spring Boot Google Login
+https://www.youtube.com/watch?v=NeeKN8IpyOY
+
+
+
+
+* Video: Tohka ngày thứ 2, NTR so good, Risu NTR Iofi, Mel short video
+
+* Tạo kênh YouTube Kujira đăng video quick quiz (Quick Quiz là video chạy nhanh, bấm dừng để đọc từ)
+* Xong trang kawaii-benki (câu hỏi)
+* Chuyển game từ GG Drive KINGDOM NVHAI sang tài khoản khác
+* Tạo 1 landing page thay thế Linktree. Sau này dẫn khán giả vào trang landing page đó. Giao diện gần giống Linktree.
+Landing page này tạo cho KINGDOM NVHAI và Kujira
+* Video:
+Hana no Uta
+Thank you Gura
+Irys kanji
+
+Git: Kujira-next-13
+Tạo giao diện mẫu cho trang này. Sau này làm web sử dụng giao diện này.
+
+
+
+
+
+
+
+personality test
+https://www.16personalities.com/free-personality-test
+
+=================
+Việc tồn đọng:
+Video: Rinne, Konosuba, Miko, Asacoco.
+Yandere Hell, PewDiePie Eng, Aoi (Your Name)
+Mirai Akari.
+Tiếng Hàn coursera, làm bài tập
+Vercel
+NextJS Search API Request POST
+Design Pixel
+
+Tiếng Nhật
++ Giới thiệu bản thân.
++ Chức năng tìm kiếm, bài viết đề xuất và danh sách các lesson.
+
+* ReactJS, NextJS
++ await, async
++ NextJS đăng nhập, CRUD
++ ag-grid https://www.ag-grid.com/javascript-data-grid/
+
+Ghép Ars Install Kurumi Route thành video dài. Tự chơi game tự quay video.
+https://www.youtube.com/watch?v=mhvM75FiteE
+=================
+Làm video sau khi cài win:
+Premiere Pro CC: 4 video.
+Photoshop: Pixel Design, create model 2D.
+HTML CSS
+GitKraken
+
+=================
+KINGDOM NVHAI rebuild
+
+Main content: Have 3-5 Tags that you include on EVERY video.
+Visual Novel Vietsub (prepare 10 video)
+Photoshop CC (prepare 10 video)
+Premiere Pro CC (prepare 4 video)
+Drama CD (prepare 6 video)
+
+Branch:
+Visual Novel: DAL, other VN…
+Anime content: DAL, Konosuba, To Love-Ru, Infinite Stratos, Shadow Garden
+
+Remove content:
+Game
+Trailer Visual Novel
+VTuber
+Drama CD copyright
+
+Schedule: 1 video per week.
+
+Patreon
+patreon.com/user?u=114693923
+
+KINGDOM NVHAI (Eroge)
+Description: Eroge game, visual novel Engsub, Vietsub.
+
+Dịch 1 video Nutaku ngắn để kiểm tra hoạt động.
+
+=================
+KAWAII CODE
+
+Main content: Have 3-5 Tags that you include on EVERY video.
+Develop
+HTML CSS
+Java
+JavaScript
+Log bug
+
+Branch:
+GIT GUI
+Spring Boot
+...
+
+
+=================
+
+Premiere Pro
+Lesson 1: tạo project, chỉnh sửa cơ bản.
+- Thumbnail: Princess Limited
+- Tạo project
+- Các nút điều khiển: import, sequence, enable, unlink.
+- Tạo video ED: scale ảnh, scale video, text, lưỡi lam.
+
+Lesson 2: hiệu ứng cơ bản
+- Thumbnail: Yasuo
+- Effect transform 2 video.
+- Opacity mờ dần.
+- Tạo video OP: text từ giữa phóng to ra 2 bên.
+- Speed tăng/giảm tốc độ phóng to
+- Tạo video TikTok: Malzahar counter Yasuo, Yone, Sett, Thresh, Jayce, Leblanc. Counter Malzahar: Syndra, Oriana, Irelia, Tristana, Xerath.
+Download video animation.
+
+
+Lesson 3: chữ credit và Karaoke
+- Thumbnail:
+- Chữ credit chạy
+- Karaoke cơ bản: https://www.youtube.com/watch?v=DHZr2cjyldo
+- Video ED có chữ karaoke và credit
+
+Lesson 4: Video/image inside text
+- Thumbnail: Coco
+- Video/image inside text
+https://www.youtube.com/watch?v=GosOdVV_-pU
+https://www.youtube.com/watch?v=oJdE87rU88w
+Phông xanh (Coco, Kronii)
+How to Green Screen | Adobe Premiere Pro 2021
+https://www.youtube.com/watch?v=aAA2l7-_kFQ
+
+
+Lesson 5: 3D effect, text and screen
+- Thumbnail:
+- 3D screen: https://www.youtube.com/watch?v=VDIO-SkGTnc
+- 3D text: https://www.youtube.com/watch?v=8fXreXnDOZY
+- Title Zoom: https://www.youtube.com/watch?v=_v5gEduVpdo
+
+Lesson 6:
+Premiere Pro audio visualizer
+Video bản tin ANN NEWS
+
+
+
+===============================
+
+Photoshop CC bằng Anime
+Lesson 1: tạo project, vùng chọn.
+- Thumbnail: tất cả nhân vật DAL
+Tạo project: size width height, menu,
+Layer, images size, canvas size.
+Shape
+Thumbnail kính vỡ. https://www.google.com/search?q=tokino+sora+13+knights&sca_esv=584731264&tbm=isch&source=lnms&sa=X&ved=2ahUKEwisiM-Jl9mCAxWba2wGHQvfC18Q_AUoAXoECAEQAw&biw=1920&bih=973#imgrc=Adhp42Jo9aX-9M
+Bài tập về nhà: bản đồ Tengu
+Kurumi bắn vỡ kính
+
+Lesson 2: Chữ và viền (Text and stroke)
+- Thumbnail: Dragon Maid censored
+Anime: DAL, Shadow Garden
+Text giả 3D
+Censored
+
+Lesson 3: Tạo vùng chọn phức tạp
+- Thumbnail: Kurumi bắn vỡ kính
+Thumbnail To Love-Ru, DAL Pedo Bear.
+Kurumi từ màn hình tivi.
+Adam GODS
+
+Lesson 4: Feather và Pen Tool
+- Thumbnail: Civil War
+Thiệp
+Psyduck DAL
+DAL Civil War
+
+Bài tập về nhà:
+Among Us DAL
+
+
+Lesson 5: lên màu manga
+Miku.
+Lấy hình hentai không màu để lên màu.
+
+
+
+Mask, Double Exposure Effect
+https://www.youtube.com/watch?v=iOYz669WNpU
+
+
+Lesson 8: tạo hình thumbnail YouTube
+Tỉ lệ hình ảnh: chia 2 và chia 3. Dùng ruler để chia.
+Hãy tưởng tượng, nếu chia làm 2, hình thumbnail sẽ có 4 ô. Chia làm 3, hình thumbnail sẽ có 9 ô.
+Nếu chia 2: hình ảnh 1 bên, text 1 bên.
+Nếu chia 3: hình ảnh ở giữa, text 2 bên.
+
+Tạo hình thumbnail bằng Hentai.
+Dùng hình Princess Limited gắn logo Premiere Pro.
+
+Tỉ lệ 1/3 trong chụp ảnh.
+
+Các mẹo làm hình Thumbnail
+- Không đặt văn bản đã có trong tiêu đề
+- Văn bản ngắn gọn, có thể khiến khán giả nghĩ đây là một video ngắn (số lượng nhỏ, thời gian ngắn.)
+
+Lesson 9: redraw
+Redraw (vẽ lại) là kỹ năng cần thiết trong việc sử dụng tài nguyên có sẵn trên mạng.
+https://www.youtube.com/watch?v=sU2PNIVByjM
+Lấy hình DAL có chữ để lên màu.
+
+Lesson 10: design pixel
+
+
+==========
+Cinema 4D sphere
+https://www.youtube.com/watch?v=d5L-SDLA-uk
+https://www.youtube.com/watch?v=wKeiOkUAv9g
