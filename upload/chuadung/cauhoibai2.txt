@@ -1,27 +1,136 @@
 お
+A a
+B o
+C u
 
 け
+A ka
+B ke
+C ki
 
 ぬ
+A ma
+B me
+C nu
 
 め
+A ma
+B me
+C nu
 
 ゆ
+A ya
+B yu
+C yo
+
+ろ
+A ru
+B re
+C ro
+
+る
+A ru
+B re
+C ro
+
+ね
+A wa
+B ne
+B nu
+
+せ
+A sa
+B se
+C so
+
+も
+A ni
+B mo
+C ma
 
 エ
+A i
+B u 
+C e
 
 コ
+A ni
+B ko 
+C ro
 
 ツ
+A shi
+B tsu
+C sa
+
+シ
+A shi
+B tsu
+C sa
 
 ヨ
+A ya
+B yu
+C yo
 
 レ
+A ri
+B ru
+C re
+
+ン
+A shi
+B n
+C so
+
+ソ
+A tsu
+B n
+C so
+
+リ
+A ri
+B ru
+C re
+
+ル
+A ri
+B ru
+C re
+
+がっこ
+A Gakko
+B Gatsuko
+C Gakuko
+
+
+
+タイ
+A Kui
+B Tai
+C Kei
 
 テレビ
+A Terebi
+B Terubi
+C Teribi
 
 ロシア
-Roshia
+A Reshia
+B Rushia
+C Roshia
+
+ペン
+A Pen
+B Pan
+C Pin
+
+ラジオ
+A Radio
+B Rajio
+C Rajia
+
+
 
 
 
