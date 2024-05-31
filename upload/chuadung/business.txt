@@ -1,0 +1,182 @@
+http://thpasmes.hbis-posco.com:8053/M27/M27010/glue.mvc?ServiceName=m270700070-service&NS_FKEY=m270700070_f001&NS_RKEY=m270_rKUB_2
+
+冷轧作业_View Cold-Rolling Work Unit
++ View Cold-Rolling Work Unit -> ServiceName=m270100010-service&NS_FKEY=m270100010_f001
+
+作业单位钢卷信息_View Coils Lists in Work Unit
++ View Coils in Galvanization Work Unit -> ServiceName=m270100060-service&NS_FKEY=m270100060_f002
++ View Coils in Recoiling Work Unit (danh sách đơn vị công việc thu hồi) -> ServiceName=m270100070-service&NS_FKEY=m270100070_f002
+
+作业指示对象_Work Order List
++ List of Galvanization Work Unit -> ServiceName=m270100114-service&NS_FKEY=m270100114_f001
++ List of Recoiling Work Unit -> ServiceName=m270100111-service&NS_FKEY=m270100111_f001
+
+检查实绩录入_View & Register Inspection Results
++ View & Register Galvanization Inspection Result -> ServiceName=m270200041-service&NS_FKEY=m270200041_f002
++ View & Register Recoiling Inspection Result -> ServiceName=m270200025-service&NS_FKEY=m270200025_f002
+
+异常材料管理_Manage Abnormal Materials
++ View Abnormal Cold-Rolling Material -> ServiceName=m270200180-service&NS_FKEY=m270200180_f002
++ View & Register Abnormal Material Cards -> ServiceName=m270200180-service&NS_FKEY=m270200180_f002
+
+半成品作业实绩_Semi-finished Product Work Result
++ Process Semi-finished Product Work Result -> ServiceName=m270200190-service&NS_FKEY=m270200190_f002
+
+Conveyor_View Conveyor
++ View Galvanization Entry Conveyor Data -> ServiceName=m270200264-service&NS_FKEY=m270200264_f002
++ View Recoiling Entry Conveyor Data -> ServiceName=m270200265-service&NS_FKEY=m270200265_f002
++ View Galvanization Delivery Conveyor Data -> ServiceName=m270200274-service&NS_FKEY=m270200274_f002
++ View Recoiling Delivery Conveyor Data -> ServiceName=m270200275-service&NS_FKEY=m270200275_f002
++ CGL Coil Monitoring (thép cán nguội) -> ServiceName=m270700070-service&NS_FKEY=m270700070_f001
+
+钢卷库区素材状态_View Material Status in Cold Yard
++ View Material Status in Cold Yard (Xem trạng thái nguyên liệu trong bãi lạnh) -> ServiceName=m270200290-service&NS_FKEY=m270200290_f002
+
+自动包装Conveyor_View Packaging Conveyor
++ View CR Packing Conveyor Data -> ServiceName=m270200330-service&NS_FKEY=m270200330_f002
+
+手动包装Conveyor_View Offsite Packaging Conveyor
++ View Offsite Packaging Conveyor Data -> ServiceName=m270200340-service&NS_FKEY=m270200340_f002
+
+素材包装_View Packing Material Status
++ View Packing Results -> ServiceName=m270200350-service&NS_FKEY=m270200350_f001
+
+退还产品_View & Receive Returned Products
++ View & Receive Returned Products -> ServiceName=m270200380-service&NS_FKEY=m270200380_f002
+
+冷轧卷履历_View Cold-Rolled Coil History
++ View Cold-Rolled Coil History -> ServiceName=m270300010-service&NS_FKEY=m270300010_f001
+
+作业实绩_Work Results
++ View Plating Results -> ServiceName=m270300051-service&NS_FKEY=m270300051_f001
++ View Recoiling Results -> ServiceName=m270300052-service&NS_FKEY=m270300052_f001
+
+未结束产品实绩_View Non-finished Product Results
++ View Non-finished Results -> ServiceName=m270300090-service&NS_FKEY=m270300090_f001
+
+作业实绩详细_Detailed Work Results
++ View Galvanization Result Details -> ServiceName=m270300150-service&NS_FKEY=m270300150_f001
+
+作业实绩详细_View Detail Work Results
++ Galvanization Daily Work Result -> ServiceName=m270300250-service&NS_FKEY=m270300250_f001
+
+作业实绩_View Work Results
++ View Material Status in Cold Yard -> ServiceName=m270200290-service&NS_FKEY=m270200290_f001
++ View Work-in-Process -> ServiceName=m270300300-service&NS_FKEY=m270300300_f001
+
+设备运行_Facility Operation
++ CR Facility Operation Results -> ServiceName=m270300340-service&NS_FKEY=m270300340_f001
++ View/Register Facility Operation Results -> ServiceName=m270300341-service&NS_FKEY=m270300341_f002
++ Manage Utility Usage Results -> ServiceName=m270300450-service&NS_FKEY=m270300450_f002
+
+综合判定等待_View Cold Rolling Coils Wait for Final Judgment
++ View Cold Rolling Coils Wait for Final Judgment -> ServiceName=m270500040-service&NS_FKEY=m270500040_f001
+
+Dummy素材_Dummy Materials
++ View Dymmy Material Lists -> ServiceName=m270500060-service&NS_FKEY=m270500060_f002
+
+产品判定信息_Production Quality Information
++ Total Defect Product Information -> ServiceName=m270300400-service&NS_FKEY=m270300400_f001
+
+popup_Popup
++ Reject Material -> ServiceName=m270200260pop02-service&NS_FKEY=m270200260pop02_f002
+
+Process Sample Delivery_Process Sample Delivery
+
+辅料实绩_View By-supplementary Result
++ Process By_Supplementary Material Management Screen -> ServiceName=m270700010-service&NS_FKEY=m270700010_f001
++ Process By_Zinc Dross Management Screen -> ServiceName=m270700020-service&NS_FKEY=m270700020_f001
++ Process By_Scrap Management Screen -> ServiceName=m270700030-service&NS_FKEY=m270700030_f001
+
+
+
+http://thpasbas.hbis-posco.com:8053/M0B/M0B020/m0b0200100.mvc
+http://thpasmes.hbis-posco.com:8053/M30/M30010/glue.mvc?ServiceName=m300200101-service&NS_FKEY=m300200101_f002&NS_RKEY=m300_rKUA_1
+
+
+HP [质量判定] 超级用户管理_품질 SU관리
+产品判定管理_Manage Product Judgement
+Manage Test Lot Sampling Result -> ServiceName=m300200101-service&NS_FKEY=m300200101_f002&NS_RKEY=m300_rKUA_1
+Process Transaction For Product Judgment Result -> ServiceName=m300200120-service&NS_FKEY=m300200120_f003&NS_RKEY=m300_rKUA_1
+Test Sample Status Monitoring -> ServiceName=m300200202-service&NS_FKEY=m300200202_f001&NS_RKEY=m300_rKUA_1
+Process Test Samples Delivery -> ServiceName=m300200203-service&NS_FKEY=m300200203_f002&NS_RKEY=m300_rKUA_1
+View Detail Test Sample Status -> ServiceName=m300200205-service&NS_FKEY=m300200205_f001&NS_RKEY=m300_rKUA_1
+
+
+=======
+Rule:
+A: so sanh chinh xac
+B: between and
+
+=======
+TB_M60_BERTH010: bến cảnhg, tàu...
+TB_M60_CAPA010: loại sản phẩm vận tải, điểm đến...
+TB_M60_CAPA020: mã kho sản phẩm, sức chứa...
+TB_M60_CARD610: số thiết bị vận chuyển sản phẩm, phân loại trạng thái tiến độ, thứ tự...
+TB_M60_CARH610: phân loại thiết bị vận tải (tàu, xe...), ngày vận chuyển...
+TB_M60_CARP610: sản phẩm, nhóm sản phẩm, cân nặng...
+TB_M60_CRAN610: máy trục, dỡ hàng, lô sản phẩm vận chuyển, chủ sở hữu...
+TB_M60_CRANE010: số tàu neo đậu, trọng tải...
+TB_M60_CRANE020: lịch trình, lịch sử...
+TB_M60_DELA010: vận chuyển, mã kho sản phẩm, phân loại kho hàng vận chuyển, trạng thái...
+TB_M60_DELAT010: phân loại lô hàng vận chuyển sản phẩm, trạng thái lô hàng.
+TB_M60_DELD010: phân loại viết tắt, điểm đến, tuyến đường vận chuyển, cơ sở phân phối sản phẩm.
+TB_M60_DELH010: chi phí, ID chung của tiến trình sản phẩm, số lượng phân phối.
+TB_M60_DELM010:
+TB_M60_DELP010:
+TB_M60_DELM010:
+TB_M60_DELP010:
+TB_M60_DELS010:
+TB_M60_DELV010:
+TB_M60_DELW010:
+TB_M60_DRIV610:
+TB_M60_EQPM010: phân loại chỉ tiêu vận chuyển, vận chuyển sản phẩm, mã vật liệu
+TB_M60_GONG010: ID phiếu vận chuyển, mã số nhà cung cấp dịch vụ vận tải, ngày giờ kết thúc công việc vận chuyển
+TB_M60_HOOP010:
+TB_M60_INVF010: số lượng sản phẩm vận chuyển tồn kho, số lượng sản phẩm
+TB_M60_INVO010:
+TB_M60_IPRI010: ngày bắt đầu quyết toán hoạt động vận tải, phân loại hiệu suất công việc dỡ hàng tại cảng vận chuyển, phân loại quản lý sản phẩm giao hàng
+TB_M60_JUDE010: trạng thái vận chuyển
+TB_M60_LABE010: số ID phát hành nhãn, phân loại mục tiêu truyền tải ERP cho lô hàng
+TB_M60_LABE020:
+TB_M60_LANE010: cấp lại nhãn, số lượng, ngày giờ
+TB_M60_LOCA010:
+TB_M60_LOGM010:
+
+
+
+==================
+
+    /**
+    * <pre>
+    * getFillToZero them 0 vao truoc chuoi, do dai mong muon
+    *  </pre>
+    * @param       obj: 변경할 문자열, len: 출력할 자리수,  defaultStr: 입력값이 Null,SPACE인 경우 리턴값
+    * @return       체크문자열
+    * @throws Exception
+    * @see
+    */
+    public static String getFillToZero(Object obj, int len, String defaultStr)
+    {
+        String returnVal = null;
+
+        if ((obj != null) && !obj.equals(PosM600CommonConstants.MSG_10335))
+        {
+        	StringBuffer objStr = new StringBuffer();
+            int idx = obj.toString().length();
+            for (int i = 0; i < (len - idx); i++)
+            {
+            	objStr.append(PosM600CommonConstants.MSG_10579);
+            }
+            objStr.append(obj.toString());
+
+            returnVal = objStr.toString();
+        }
+        else
+        {
+            returnVal = defaultStr;
+        }
+
+        return returnVal;
+    }
+
