@@ -1,0 +1,89 @@
+https://www.youtube.com/playlist?list=PLApuTT4CRzA9XAywWsReLBID1UYrPCwWB
+
+Bài 1:
+Giới thiệu Excel
+
+Canh lề
+Bold, Italic, Underline
+Image
+Font chữ
+Màu chữ, màu nền
+
+Bài 2
+Phép tính đơn giản: cộng trừ nhân chia
+Địa chỉ tuyệt đối
+
+Bài tập:
+Tính điểm học sinh dựa trên 3 môn: Toán Văn Anh
+1) Tính trung bình 3 môn
+
+Hàm SUM(), SUMIF()
+Bài tập:
+Tính điểm thí sinh thi ĐH dựa trên 3 môn và 4 khối:
+Khối A: Toán Lý Hóa
+Khối B: Toán Hóa Sinh
+Khối C: Văn Sử Địa
+Khối D: Toán Văn Anh
+1) Tính tổng 3 môn
+2) Tính tổng số thí sinh thi trong mỗi khối
+
+Bài 3:
+Hàm đếm COUNT(), COUNTIF()
+Hàm IF()
+Chart
+
+
+
+Bài 4:
+Hàm xử lý chuỗi
+
+Bài 5:
+VLOOKUP và HLOOKUP
+
+Bài 6:
+Format Cell
+
+Bài 7:
+Index, Match, Sumproduct, thời gian
+
+Bài 8:
+Phân tích dữ liệu (Data Analyst)
+Thống kê mô tả và thống kê suy luận
+https://insight.isb.edu.vn/kien-thuc-co-ban-cho-data-scientist/
+https://www.youtube.com/watch?v=RmUoZ82TiDA
+
+Bài 9:
+Các thủ thuật Excel
+
+
+
+===================
+Đồ án:
+Hãy làm báo cáo thống kê dữ liệu của 1 kênh YouTube về nội dung tử vi phong thủy
+
+Tiêu đề: số liệu thống kê kênh YouTube tử vi phong thủy
+
+Thống kê bao gồm:
+Excel:
+Sheet 1: Các video từ năm 2023 đến nay
+Sheet 2: 20 video nhiều lượt xem nhất
+Mỗi video cần có: ngày đăng, tiêu đề, số lượt xem, số lượt thích, số lượt bình luận.
+
+Word:
+Làm 1 file báo cáo có:
+Trang Bìa
+Thông tin của từng kênh YouTube.
+- Ngày tạo kênh
+- Tổng lượt xem
+- Thông tin liên hệ của kênh
+- Tất cả các link của kênh (link FB, TikTok, website cá nhân)
+
+Dựa vào số liệu thống kê của file Excel, viết phân tích và đánh giá về kênh. Ví dụ:
+Những video nhiều lượt xem, like, bình luận được đăng trong khoảng thời gian nào? (tháng nào trong năm, quý nào trong năm...)
+Những video đó có những đặc điểm chung gì? (tiêu đề, nội dung nói về tình duyên, sự nghiệp, đất đai...)
+
+
+
+
+
+https://www.brandsvietnam.com/congdong/topic/331266-Tai-sao-Data-Analysis-quan-trong-trong-chien-dich-Marketing
