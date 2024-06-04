@@ -1,0 +1,129 @@
+slide 1:
+Để giảm bớt công việc của nhân viên (đồng nghiệp), tôi đang cố gắng triển khai hệ thống.
+Hiểu rằng đồng nghiệp đang giải quyết tình hình hiện tại,
+và hãy cùng tôi thiết kế (phác thảo, vẽ) để triển khai hệ thống.
+
+Mục đích của chương này không phải là tạo ra một kết quả thiết kế. Bạn phải suy nghĩ để tìm ra cách tốt nhất.
+
+
+
+slide 2:
+■ Triển khai Hệ thống quản lý kết quả hành động khẩn cấp
+Đề cương:
+1) Kết quả hành động khẩn cấp được quản lý bằng file Excel.
+ - Cải tiến các phương pháp quản lý kém hiệu quả.
+
+※ Hành động khẩn cấp: Bất kỳ hành động hỗ trợ từ xa nào để khắc phục lỗi hệ thống ngoài giờ làm việc (08~17)
+
+2) Dựa trên dữ liệu kết quả hành động khẩn cấp, chúng tôi đang yêu cầu khách hàng trả thêm chi phí công việc.
+ Việc tính toán chi phí được thực hiện bởi một người (đồng nghiệp)
+ - Cần hệ thống chứng minh hành động khẩn cấp
+
+3) Rất khó để phân tích xu hướng dữ liệu trong quá khứ.
+ - Chỉ có thể thực hiện được khi chúng ta tạo riêng tài liệu (với PPT, EXCEL)
+
+4) Cần chuyển tiếp tự động hóa cho công việc lặp đi lặp lại
+ - Đồng nghiệp đã làm việc nhiều năm được 5 năm
+
+
+
+slide 3:
+○ Các vấn đề về cơ cấu quản lý hiện tại
+1) Mọi người có thể mắc lỗi tính toán chi phí
+2) Mất nhiều thời gian trích xuất và kiểm tra dữ liệu để gửi
+3) Tài liệu có thể giả mạo dữ liệu và khó theo dõi lịch sử thay đổi.
+
+
+
+slide 4:
+○ Cách quản lý kết quả hành động khẩn cấp (AS_IS)
+1) Đồng nghiệp truy cập Cổng thông tin lỗi hệ thống khi anh ấy đi làm vào buổi sáng.
+
+※ Cổng thông tin lỗi hệ thống
+Trong trường hợp khẩn cấp, CC đã nhận được (có cuộc gọi điện thoại),
+và CC liên hệ với người phụ trách hệ thống
+Đây là một trang web trực tuyến nơi CC đăng ký lịch sử hành động
+* CC: trung tâm chỉ huy, giống như bộ phận trợ giúp
+
+
+slide 5:
+○ Cách quản lý kết quả hành động khẩn cấp (AS_IS)
+2) Sau khi kiểm tra thông tin ngày hôm trước, anh xuất Excel.
+
+slide 6:
+3) Anh ta lọc ra các hồ sơ liên quan đến hệ thống MES và sao chép
+
+slide 7:
+4)Thêm nội dung vào công chúng bằng cách sử dụng document. (dán) và lưu.
+
+slide 8:
+5) Người thực hiện ngày hôm trước ghi thông tin bổ sung vào văn bản.
+
+※ Thông tin bổ sung
+Trạng thái hoàn thành hành động, ngày hành động, chi tiết nguyên nhân, loại nguyên nhân
+Kế hoạch cải tiến hệ thống
+
+
+
+
+slide 9:
+
+6) Đồng nghiệp sắp xếp kết quả theo tên người.
+
+slide 10
+
+7) Đồng nghiệp điều chỉnh thời gian và hoàn thiện hồ sơ nộp
+
+※ Hồ sơ nộp
+Đây là dữ liệu được gửi khi yêu cầu chi phí công việc bổ sung từ công ty khách hàng
+- Ngoại trừ kết quả xử lý khẩn cấp do lỗi hệ thống.
+- Kiểm tra lại thời gian thực tế của người phụ trách hệ thống
+
+
+
+slide 11
+1) Dữ liệu gốc tồn tại trong một hệ thống khác (Cổng thông tin lỗi hệ thống).
+ - cần giao diện…
+
+2) Để có được dữ liệu gốc với giao diện, hệ thống khác cần được sửa đổi.
+ - Ví dụ phát triển logic gửi với EAI, Kafka
+  cũng cần xem xét rằng không có ai phát triển hệ thống khác.
+
+3) EAMS sẽ được triển khai trong môi trường MES.
+ - Triển khai trong dịch vụ hiện có (Chuỗi : MES common / Service ID : m0aa01)
+
+4) Dự kiến ​​sẽ triển khai các chức năng sau
+ - Đăng ký dữ liệu sổ cái (Tự động hóa là tốt nhất)
+ - Người vận hành tạo nội dung chi tiết
+ - Xác nhận mục tiêu nộp hồ sơ (slide 10)
+ - Phân tích xu hướng hàng tháng
+Gửi ý kiến phản hồi
+
+Hãy viết ý tưởng một cách thoải mái bằng hình ảnh hoặc văn bản.
+
+
+
+===========
+Hiểu hệ thống:
+Nếu hệ thống lỗi, cần cập nhật bằng file Excel.
+Phải lọc hồ sơ liên quan đến MES và copy, tự tìm kiếm bằng tay, dễ sai.
+
+Yêu cầu: làm các bước trên bằng tự động
+
+
+
+============
+Problem:
+Hệ thống hiện tại cần export file Excel rất bất tiện, có thể nhập liệu sai.
+
+
+Solution:
+Thay vì export Excel, hãy tạo màn hình để đăng ký dữ liệu sổ cái.
+Chọn loại dữ liệu người dùng muốn đăng ký.
+Sau khi chọn, các field nhập hiện ra.
+Nhập thông tin đầy đủ, assign cho người nhận hồ sơ.
+
+Màn hình:
+Có 2 màn hình: màn hình người gửi và màn hình người nhận.
+Màn hình người gửi hiện các field nhập dữ liệu.
+Màn hình người nhận hiển thị những dữ liệu đã đăng ký. Có thể filter bằng tên, ngày tháng năm.

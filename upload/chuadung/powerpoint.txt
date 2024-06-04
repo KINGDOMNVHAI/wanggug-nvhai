@@ -229,23 +229,9 @@ Bài 7
 28	クリスマス	 	Lễ Giáng sinh
 38	いってきます tôi đi đây
 
-40	りょこう	旅行	du lịch
+
 41	おみやげ	お土産	quà lưu niệm
 42	ヨーロッパ Châu Âu
-
-
-
-父 ちち Phụ, cha
-Kun: ちち
-On: フ
-
-ちちかた 父方 Phụ Phương, họ nội
-
-母 はは Mẫu, mẹ
-Kun: はは、も
-On: ボ
-
-ははかた 母方 Mẫu Phương, họ ngoại
 
 祖 ソ Tổ, tổ tiên
 On: ソ
@@ -256,6 +242,8 @@ On: ソ
 
 
 Tiên Tổ
+
+
 
 1) Danh từ (phương tiện/công cụ) + で động từ
 Công cụ thực hiện hành động.
@@ -289,61 +277,8 @@ Tôi dạy tiếng Nhật cho bạn bè
 
 Bài 8
 
-さくら	hoa anh đào
-やま	núi
-かわ    sông
-まち	thành phố
-ところ chỗ
-りょう ký túc xá
-せいかつ 生活 cuộc sống
-しごと	仕事 công việc
-
-どう như thế nào
-どんな ～nào
-
-
-
-Mẫu câu:
-おげんきですか	お元気ですか	có khỏe không
-
-
-Kanji
-市 シ Thị, thành phố
-Kun: いち
-On: シ
-
-町 まち Đinh, thị trấn
-Kun: まち
-On: チョウ
-
-Phân biệt giữa 町 và 市
-
-町 (town) is smaller and is a subunit of 市 (city)
-町 (thị trấn) nhỏ hơn và là một đơn vị của 市 (thành phố)
-
 ホーチミン市
 Ho Chi Minh
-
-
-
-山 やま Sơn, núi
-Kun: やま
-On: サン、セン
-
-やまもと 山本 Sơn Bản, chân núi.
-かざん 火山 Hỏa Sơn, núi lửa.
-
-川 かわ Xuyên, sông
-Kun: かわ
-On: セン
-
-かわぐち 川口 Kawaguchi, cửa sông, tên của thành phố ở quận Saitama.
-おがわ   小川 Tiểu Xuyên, suối
-
-
-
-
-
 
 
 
@@ -455,6 +390,10 @@ On: カ
 
 
 
+
+
+
+
 人体の語彙 じんたいのごい Từ vựng cơ thể người
 
 体 からだ Thể, cơ thể
@@ -499,6 +438,122 @@ Ví dụ:
 
 わたし　は　お金　が　ありません:  Tôi không có tiền.
 あなた　は　車　が　ありますか:  Bạn có xe hơi không.
+
+
+
+
+Danh từ + が　すき/きらい/じょうず/へた です。
+
+Dùng để nói thích/ghét/giỏi/kém điều gì đó.
+4 từ trên thuộc tính từ đuôi な
+Tính từ đuôi な ở phủ định: bỏ な đi và thêm じゃありません
+
+スポーツ　が　すきです:  thích thể thao
+ghét ăn cay
+ゲーム　が　じょうず　です: chơi game giỏi
+にほんご　が　へた　です:  tiếng nhật kém
+
+
+
+
+
+Các phó từ chỉ mức độ
+よく,だいたい,たくさん,すこし dùng trong câu khẳng định
+あまり,ぜんぜん dùng trong câu phủ định
+
+
+
+
+
+
+Bài 10
+
+Từ vựng chỉ vị trí
+うえ	上	trên
+した	下	dưới
+まえ	前	trước
+うしろ	後ろ	sau
+ひだり	左	trái
+みぎ	右	phải
+なか	中	trong, giữa
+そと	外	ngoài
+となり	隣	bên cạnh
+ちかく	近く	gần
+xa
+あいだ	間	giữa
+
+
+Kanji
+隣
+
+近 Cận
+
+Viễn
+
+
+Số đếm
+―だんめ	―段目	giá thứ -, tầng thứ – (「だん」 được dùng cho giá sách v.v.)
+
+
+Danh từ が あります/います。
+– Mẫu này để nói có cái gì đó – あります, có ai đó, vật gì đó います
+– Bài 9: dùng để nói sở hữu, ai đó có cái gì đó.
+– Bài 10: nói sự hiện diện của vật, người, động vật
+Ví dụ:
+
+こうえん（公園） が あります:  Có công viên
+いぬ（犬） が います:  Có chú chó
+人（ひと）が います:  Có người
+
+
+
+
+
+
+Danh từ 1 や Danh từ 2
+
+Etc, vân vân
+Dùng để liệt kê nhiều danh từ khác ngoài danh từ 1 và danh từ 2.
+
+Ví dụ:
+
+わたしのかばん に ほん や パソコン が あります:
+Trong cặp tôi có những thứ như sách, máy tính...
+
+– や thường được dùng với など mang nghĩa tương tự.
+まち に がっこう や コンビニ など が あります:
+Ở khu phố thì có trường học, cửa hàng tiện lợi...
+
+
+
+
+
+
+
+
+Bài 11
+
+Học số đếm vật, số đếm lần
+
+
+
+回 Hồi, lần, trở lại
+Kun:
+On:
+
+Zenkai lần trước
+
+
+
+
+Số đếm /Danh từ + だけ
+– Dịch là chỉ, giới hạn.
+
+Ví dụ:
+
+1 tuần chỉ đi học tiếng nhật 1 lần:   一週間（いっしゅうかん）に　日本語　を　一回だけ　勉強（べんきょう）します。
+1 tháng chỉ nghỉ có 1 lần:  一ヶ月（いっかげつ）に　一回だけ　やすみます。
+
 
 
 
