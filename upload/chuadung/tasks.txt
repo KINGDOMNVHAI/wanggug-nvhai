@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=uikATllLdRc
 
 ====================================================
 
+Tháng 6: làm đồ án, web anh An, project training.
+
 Sinh nhật 2024
 DAL: Tohka Ars Install
 Hololive:
@@ -56,6 +58,7 @@ Kawaii Code
 + kafka (viết bài)
 
 - Kế hoạch phục hồi KINGDOM NVHAI (nửa cuối năm 2024)
++ Web anh An gắn giao diện mới cho KINGDOM NVHAI
 + Luyện Design Pixel Game
 + Sau đó làm lại video hướng dẫn Premiere Pro, Photoshop, HTML, Pixel Game.
 + Chuẩn bị giáo án HTML trước khi làm video, template mẫu
@@ -73,6 +76,15 @@ https://www.youtube.com/watch?v=j5thxVZVCao
 Xem trang web này rồi làm video đáp ứng yêu cầu của web.
 Ví dụ: thẻ dl, ol...
 getbootstrap.com/docs/5.1/examples/blog
+
+
+KINGDOM NVHAI REACT TEMPLATE
+https://preview.themeforest.net/item/newsprk-react-nextjs-blog-magazine-template/full_screen_preview/44266140
+https://preview.themeforest.net/item/zaira-news-magazine-react-nextjs-template/full_screen_preview/51372866
+https://themegarden.blog/free-download-zaira/
+https://preview.themeforest.net/item/etreeks-online-courses-education-react-js-template/full_screen_preview/34786198
+https://preview.themeforest.net/item/flexiblog-react-gatsby-blog-template/full_screen_preview/27538998
+https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY5SL
 
 ===========================
 Lương tháng 5 21tr6
@@ -162,6 +174,7 @@ Tiếng Nhật
 
 Ghép Ars Install Kurumi Route thành video dài. Tự chơi game tự quay video.
 https://www.youtube.com/watch?v=mhvM75FiteE
+
 =================
 Làm video sau khi cài win:
 Premiere Pro CC: 4 video.

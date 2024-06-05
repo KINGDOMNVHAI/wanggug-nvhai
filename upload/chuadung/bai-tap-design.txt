@@ -123,7 +123,25 @@ Chọn loại dữ liệu người dùng muốn đăng ký.
 Sau khi chọn, các field nhập hiện ra.
 Nhập thông tin đầy đủ, assign cho người nhận hồ sơ.
 
-Màn hình:
-Có 2 màn hình: màn hình người gửi và màn hình người nhận.
+Screens:
+2 screens: Sending Screen and Receive Screen và màn hình người nhận.
 Màn hình người gửi hiện các field nhập dữ liệu.
 Màn hình người nhận hiển thị những dữ liệu đã đăng ký. Có thể filter bằng tên, ngày tháng năm.
+
+Important: as simple and concise as possible
+
+Màn hình người gửi Sending Screen: 
+Employee Number: 
+Request Type:
+- Emergency
+- Error System
+- Elevator failure
+- Others
+Content:
+
+Send button
+
+
+Màn hình người nhận Receive Screen:
+
+
