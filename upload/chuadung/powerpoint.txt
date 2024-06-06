@@ -403,11 +403,26 @@ On: カ
 目 Mục, mắt
 口 Khẩu, miệng
 耳 みみ Nhĩ, tai
+唇（くちびる）Kuchibiru Môi
+歯（は）HaRăng
 
 かみ Tóc
 胸 むね ngực
+舌(した）Shita Lưỡi
 
 
+
+Từ gần giống:
+せかい　世界 thế giới
+せいかい　正解 đáp án
+
+した 舌 lưỡi
+した 下 Hạ, bên dưới
+
+
+
+
+ほんじつ 本日 hôm nay
 
 
 
@@ -469,26 +484,50 @@ Các phó từ chỉ mức độ
 Bài 10
 
 Từ vựng chỉ vị trí
-うえ	上	trên
-した	下	dưới
-まえ	前	trước
-うしろ	後ろ	sau
-ひだり	左	trái
-みぎ	右	phải
-なか	中	trong, giữa
-そと	外	ngoài
-となり	隣	bên cạnh
-ちかく	近く	gần
-xa
-あいだ	間	giữa
+うえ	上	 trên
+した	下	 dưới
+まえ	前	 trước
+うしろ	後ろ sau
+ひだり	左	 trái
+みぎ	右	 phải
+なか	中	 trong, giữa
+そと	外	 ngoài
+となり	隣	 bên cạnh
+ちかく	近く gần
+とおい  遠い xa
+あいだ	間   giữa
 
 
 Kanji
 隣
 
-近 Cận
+近 ちか Cận
+Kun: ちか.い
+On: キン、コン
 
-Viễn
+ちかく 近く Cận, gần
+きんがん 近眼 cận thị
+
+
+
+遠 とおい Viễn
+Kun: とおい
+On:
+
+えんし 遠視 Viễn Thị, viễn thị.
+
+
+
+
+した 舌 lưỡi
+した 下 Hạ, bên dưới
+
+したのした
+舌の下
+Bên dưới lưỡi
+
+
+
 
 
 Số đếm
@@ -501,9 +540,9 @@ Danh từ が あります/います。
 – Bài 10: nói sự hiện diện của vật, người, động vật
 Ví dụ:
 
-こうえん（公園） が あります:  Có công viên
-いぬ（犬） が います:  Có chú chó
-人（ひと）が います:  Có người
+こうえん が あります:  Có công viên
+いぬがいます:  Có chú chó
+人がいます:  Có người
 
 
 
@@ -537,22 +576,32 @@ Học số đếm vật, số đếm lần
 
 
 
-回 Hồi, lần, trở lại
+回 カイ Hồi, lần, trở lại
 Kun:
-On:
+On: カイ、エ
 
-Zenkai lần trước
+ぜんかい 前回 lần trước
 
 
 
 
 Số đếm /Danh từ + だけ
-– Dịch là chỉ, giới hạn.
+– Only, limit, chỉ, giới hạn.
 
 Ví dụ:
 
 1 tuần chỉ đi học tiếng nhật 1 lần:   一週間（いっしゅうかん）に　日本語　を　一回だけ　勉強（べんきょう）します。
 1 tháng chỉ nghỉ có 1 lần:  一ヶ月（いっかげつ）に　一回だけ　やすみます。
+
+Sinh nhật 1 năm chỉ có 1 lần
+
+
+
+
+Tôi chỉ cao 1.5 mét
+
+東京タワーは高さ332.9メートル
+Tháp Tokyo cao 332.9 mét
 
 
 
@@ -1001,3 +1050,44 @@ Video: lấy từ ANN NEWS
 Giọng nói: Google Dịch
 
 ====================================
+Tạo Powerpoint từ vựng IT
+
+1. パソコン： Máy tính cá nhân.
+2. 画面 (がめん): Màn hình (screen)
+3. 印刷 (いんさつ): In ấn.
+4. 参照 (さんしょう): Tham khảo, tham chiếu.
+5. 戻り値 (もどりち): Giá trị trả về(của 1 function)
+6. ソースコード: Mã nguồn (source code)
+7. 修正 (しゅうせい) : Chỉnh sửa, đính chính(fix)
+8. 一覧 (いちらん): Danh sách (list)
+9. 確認 (かくにん) : Xác nhận.
+10. 画像 (がぞう): Hình tượng, hình ảnh.
+11. 解除 (かいじょ): Hủy bỏ.
+12. モニター：Màn hình.
+VD: パソコンのモニター (Màn hình máy tính.)
+13.マウス: Chuột vi tính (mouse )
+14. キーボード：Bàn phím (Keyboard)
+15. インストール: Thiết lập, cài đặt (install)
+16. インターネット: Mạng internet.
+17. インターフェース: interface.
+18. インフラ: Cơ sở hạ tầng, cấu trúc hạ tầng
+19. ウェブ: Web.
+20. エクセル: Bảng tính excel.
+21. ワード　：Trình soạn thảo word.
+22. エンドユーザ: Người dùng cuối (end user)
+23. オブジェクト: Đối tượng (object)
+24. オプション: Lựa chọn (option)
+25. オペレータ: Điều hành (operator)
+26. 項目 (こうもく): Hạng mục, điều khoản (item).
+27. 接続 (せつぞく): Kết nối (Connection).
+28. 貼り付け (はりつけ): Dán.
+29. 仮想環境 (かそうかんきょう): Môi trường ảo, VPN
+30. ドメイン: Tên miền, miền (domain)
+31. マップ: Sơ đồ,bản đồ (map)
+32. プロパティ: Thuộc tính (Property)
+33. ブラウザ: Trình duyệt web (browser)
+34. プログラミング：Programming.
+35. リリース：Release.
+36. 計画 (けいかく)：Kế hoạch.
+37. スケジュール：Schedule.
+38. 見積 (みつもり): Estimates.
