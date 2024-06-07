@@ -391,6 +391,9 @@ On: カ
 
 
 
+しょうせつ   小説   tiểu thuyết
+しょうせつか 小説家	tiểu thuyết gia
+
 
 
 
@@ -477,7 +480,28 @@ Các phó từ chỉ mức độ
 あまり,ぜんぜん dùng trong câu phủ định
 
 
+でんしおんがく 電子音楽 Nhạc điện tử
+ジャズ: /jazu/ Nhạc jazz
+ラテン: /ratin/ Nhạc Latin
+オペラ: /opera/ Nhạc opera
+ポップ: /poppu/ Nhạc pop
+ラップ: /rappu/ Nhạc rap
+ロック: /rokku/ Nhạc rock
+ヒップホップ: /hippu hoppu/ Nhạc hip hop
+バンド: /bando/ Ban nhạc
+音楽グループ /guruupu/ Nhóm nhạc
 
+================
+バスケットボール /basuketto bo-ru/ Bóng rổ
+バレーボール /bare- bo-ru/ bóng chuyền
+フットボール /futto bo-ru/ bóng đá
+
+たっきゅう 卓球 /takkyuu/ Bóng bàn
+けんどう 剣道 /kendou/ Kiếm đạo
+やきゅう 野球 /yakyuu/ Bóng chày
+けんどう 剣道 /kendou/ Kiếm đạo
+
+トーナメント /to-namento/ giải đấu
 
 
 
@@ -735,15 +759,6 @@ Bắt đầu N4, chúng ta sẽ làm quen với từ vựng đồng âm khác ng
 
 
 
-よこ 横	bên cạnh
-横浜 Yokohama
-横 Hoành: bên cạnh.
-浜 Banh: bãi biển, bờ biển.
-
-
-
-
-
 Động từ + ていただけませんか
 Nhờ ai đó một cách lịch sự.
 Lịch sự hơn mẫu câu ～てください
@@ -824,14 +839,70 @@ Thu hút người nghe vào một chủ đề nào đó.
 
 
 
+Bài 27
+
+ペット pet, thú cưng, động vật nuôi
+とり 鳥 Điểu, chim
+
+こえ 声 tiếng, giọng nói
+なみ 波 sóng
+はなび	花火	pháo hoa
+けしき	景色	phong cảnh
+ひるま	昼間	ban ngày
+むかし	昔	ngày xưa
+どうぐ 道具 dụng cụ
+だいどころ 台所 nhà bếp
+つうしんはんばい 通信販売 thương mại viễn thông
+
+クリーニング cleaning, giặt ủi
+マンション mansion, biệt thự
+
+
+声 Thanh, âm thanh, tiếng, giọng nói
+Kun:
+On:
+
+鳥の声 tiếng chim
+あのおんなの声 giọng nói của cô ấy
+
+
+販 Phiến, mua rẻ bán đắt.
+On: ハン
+
+売 Mại, bán hàng
+Kun:
+On:
+
+つうしんはんばい 通信販売
+Thông Tín Phiến Mại
+thương mại viễn thông
+
+じどうはんばいき 自動販売機
+Tự Động Phiến Mại Cơ
+máy bán hàng tự động (bài 2)
+
+
+昔 Tích
+
+こせき 古昔 Cổ Tích, thời cổ đại.
+tàn tích
 
 
 
 
 
+Bài 28
 
+しなもの 品物	hàng hóa
+ねだん	値段	giá cả
+きゅうりょう 給料	lương
+ボーナス thưởng
 
+番
 
+でんわばんご 電話番号 số điện thoại
+ばんぐみ 番組 chương trình(truyền hình,phát thanh,..)
+こうばん 交番 đồn cảnh sát,bốt cảnh sát
 
 
 ==============================
