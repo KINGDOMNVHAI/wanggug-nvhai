@@ -714,14 +714,33 @@ Thể phủ định: いません
 Thể quá khứ: いました
 Thể phủ định ở quá khứ: いませんでした
 
-Có 2 chiếc xe ôtô
 二台の車 / 車二台
+Có 2 chiếc xe ôtô
 
-Không có chiếc xe ôtô nào cả
 車がありません
+Không có chiếc xe ôtô nào cả
 
+私の家族は六人があります。
 Gia đình của tôi có 6 người.
-私の家族に人が6人あります。
+
+きょしつの中に四人があります。
+Trong lớp học có 4 người.
+
+Luyện tập:
+Hãy đọc các câu sau:
+
+Trong phòng họp
+Trên sân thượng
+Dưới tầng hầm
+.....
+
+Có 3,4,5,6,7... người.
+
+
+
+
+
+Bài 11
 
 
 
