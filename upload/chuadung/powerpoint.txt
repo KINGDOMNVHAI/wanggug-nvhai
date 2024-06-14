@@ -330,48 +330,11 @@ Tính từ đuôi な
 へた kém
 
 
-りょうり 料理 món ăn, việc nấu ăn
-やきゅう 野球 bóng chày (～をします：chơi bóng chày)
-おんがく 音楽 âm nhạc
-うた	歌	bài hát
-かぶき	歌舞伎	Kabuki (một loại ca kịch truyền thống của Nhật)
-え	絵	Tranh, hội họa
-
-わかります	分かります	hiểu, nắm được
-あります có (sở hữu)
-
-
-ダンス dance, nhảy, khiêu vũ
-クラシック nhạc cổ điển
-15	ジャズ nhạc jazz
-16	コンサート buổi hòa nhạc
-17	カラオケ karaoke
-チケット vé (xem hòa nhạc, xem phim)
-
-(～をします：nhảy, khiêu vũ)
-
-
-じ 字 chữ
-かんじ Kanji, chữ hán
-ローマじ Romaji, chữ La Mã
-
-
-こまかいおかね	細かいお金	tiền lẻ
-ようじ	用事	việc bận, công chuyện
-やくそく cuộc hẹn, lời hứa
 
 30	ごしゅじん	ご囚人	chồng (dùng khi nói về chồng người khác)
 31	おっと/しゅじん	夫/主人	chồng (dùng khi nói về chồng mình)
 32	おくさん	奥さん	vợ (dùng khi nói về vợ người khác)
 33	つま/かない	妻/家内	vợ (dùng khi nói về vợ mình)
-
-Mức độ
-35	よく	 	tốt, rõ
-36	だいたい    đại khái, đại thể
-37	たくさん    nhiều
-38	すこし	少し	ít, một ít
-39	ぜんぜん	全然	hoàn toàn ~ không
-40	はやく	早く、速く	sớm, nhanh
 
 
 
@@ -507,21 +470,6 @@ Các phó từ chỉ mức độ
 
 Bài 10
 
-Từ vựng chỉ vị trí
-うえ	上	 trên
-した	下	 dưới
-まえ	前	 trước
-うしろ	後ろ sau
-ひだり	左	 trái
-みぎ	右	 phải
-なか	中	 trong, giữa
-そと	外	 ngoài
-となり	隣	 bên cạnh
-ちかく	近く gần
-とおい  遠い xa
-あいだ	間   giữa
-
-
 Kanji
 隣
 
@@ -543,30 +491,9 @@ On:
 
 
 
-した 舌 lưỡi
-した 下 Hạ, bên dưới
-
-したのした
-舌の下
-Bên dưới lưỡi
-
-
-
-
 
 Số đếm
 ―だんめ	―段目	giá thứ -, tầng thứ – (「だん」 được dùng cho giá sách v.v.)
-
-
-Danh từ が あります/います。
-– Mẫu này để nói có cái gì đó – あります, có ai đó, vật gì đó います
-– Bài 9: dùng để nói sở hữu, ai đó có cái gì đó.
-– Bài 10: nói sự hiện diện của vật, người, động vật
-Ví dụ:
-
-こうえん が あります:  Có công viên
-いぬがいます:  Có chú chó
-人がいます:  Có người
 
 
 
@@ -589,6 +516,44 @@ Trong cặp tôi có những thứ như sách, máy tính...
 
 
 
+Ý nghĩa:
+Nghĩa: Có, tồn tại. Have, exist.
+
+あります
+Dùng cho người, động vật
+Thể khẳng định: あります
+Thể phủ định: ありません
+Thể quá khứ: ありました
+Thể phủ định ở quá khứ: ありませんでした
+
+います
+Dùng cho đồ vật
+Thể khẳng định: います
+Thể phủ định: いません
+Thể quá khứ: いました
+Thể phủ định ở quá khứ: いませんでした
+
+二台の車 / 車二台
+Có 2 chiếc xe ôtô
+
+車がありません
+Không có chiếc xe ôtô nào cả
+
+私の家族は六人があります。
+Gia đình của tôi có 6 người.
+
+きょしつの中に四人があります。
+Trong lớp học có 4 người.
+
+Luyện tập:
+Hãy đọc các câu sau:
+
+Trong phòng họp
+Trên sân thượng
+Dưới tầng hầm
+.....
+
+Có 3,4,5,6,7... người.
 
 
 
@@ -695,52 +660,8 @@ Ví dụ:
 
 
 
-Bài 10
-
-Ý nghĩa:
-Nghĩa: Có, tồn tại. Have, exist.
-
-あります
-Dùng cho người, động vật
-Thể khẳng định: あります
-Thể phủ định: ありません
-Thể quá khứ: ありました
-Thể phủ định ở quá khứ: ありませんでした
-
-います
-Dùng cho đồ vật
-Thể khẳng định: います
-Thể phủ định: いません
-Thể quá khứ: いました
-Thể phủ định ở quá khứ: いませんでした
-
-二台の車 / 車二台
-Có 2 chiếc xe ôtô
-
-車がありません
-Không có chiếc xe ôtô nào cả
-
-私の家族は六人があります。
-Gia đình của tôi có 6 người.
-
-きょしつの中に四人があります。
-Trong lớp học có 4 người.
-
-Luyện tập:
-Hãy đọc các câu sau:
-
-Trong phòng họp
-Trên sân thượng
-Dưới tầng hầm
-.....
-
-Có 3,4,5,6,7... người.
 
 
-
-
-
-Bài 11
 
 
 
