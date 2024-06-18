@@ -470,26 +470,6 @@ Các phó từ chỉ mức độ
 
 Bài 10
 
-Kanji
-隣
-
-近 ちか Cận
-Kun: ちか.い
-On: キン、コン
-
-ちかく 近く Cận, gần
-きんがん 近眼 cận thị
-
-
-
-遠 とおい Viễn
-Kun: とおい
-On:
-
-えんし 遠視 Viễn Thị, viễn thị.
-
-
-
 
 
 Số đếm
@@ -781,16 +761,79 @@ Thu hút người nghe vào một chủ đề nào đó.
 
 Bài 28
 
+Mẫu câu
+Ngoài ra: それに
+Do đó: それで
+Tôi có chút việc muốn nhờ anh chị おねがいがあるんですが
+
+
+
+しょうせつ tiểu thuyết
+しょうせつか tiểu thuyết gia
+
 しなもの 品物	hàng hóa
 ねだん	値段	giá cả
 きゅうりょう 給料	lương
+むりょう	無料	miễn phí
 ボーナス thưởng
+ガム gum, kẹo cao su
+ドラマ drama, kịch,phim truyền hình
+ホームステイ homestay
+
+しゅうかん tập quán
+けいけん kinh nghiệm
+ちから sức mạnh
+
+
 
 番
 
 でんわばんご 電話番号 số điện thoại
 ばんぐみ 番組 chương trình(truyền hình,phát thanh,..)
 こうばん 交番 đồn cảnh sát,bốt cảnh sát
+
+
+
+
+	うれます	売れます	bán
+2	おどります	踊ります	 nhảy
+3	かみます	 	nhai,cắn
+4	えらびます	選びます	lựa,lựa chọn
+5	かよいます	通います	đi học(đại học)
+6	メモします	メモします	ghi chép lại,ghi lại
+7	まじめ	真面目	nghiêm túc,đàng hoàng
+8	ねっしん	熱心	nhiệt tình
+9	えらい	偉い	vĩ đại, kính trọng
+10	ちょうどいい	丁度いい	vừa đúng,vừa vặn
+11	やさしい	優しい	hiền lành
+
+
+15	にんき	人気	hâm mộ
+16	かたち	形	hình dáng
+17	いろ	色	màu sắc
+18	あじ	味	vị
+
+
+28	かしゅ	歌手	ca sĩ
+29	かんりにん	管理人	người quản lí
+30	むすこ	息子	con trai(dùng cho mình)
+31	むすこさん	息子さん	con trai(dùng cho người khác)
+32	むすめ	娘	con gái(dùng cho mình)
+33	むすめさん	娘さん	con gái(dùng cho người khác)
+34	じぶん	自分	bản thân
+35	しょうらい	将来	tương lai
+36	しばらく	 	một khoảng thời gian ngắn, một chút, một lát
+37	たいてい	 	thường, thông thường
+
+
+43	おしゃべりします	おしゃべりします	trò chuyện
+44	おしらせ	お知らせ	thông báo
+45	ひにち	日にち	ngày
+47	たいいくかん	体育館	phòng thể dục
+
+
+しなもの 品物 hàng hóa
+しながわ 品川 Shinagawa
 
 
 ==============================
@@ -838,6 +881,8 @@ Câu share màn hình
 電子タバコ
 Thuốc lá điện tử
 
+
+モード mode
 
 
 ==============================
